@@ -132,7 +132,7 @@ span{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('../imagenes/iphone-gedcb48346_1920.jpg');
+    background-image: url('/imagenes/iphone-gedcb48346_1920.jpg');
     background-size: cover; 
     margin-bottom: 0;
 }
