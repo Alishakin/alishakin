@@ -736,7 +736,7 @@ width: 70px;
 
 @font-face { 
  font-family: 'AvenirLTProLight.otf';
- src: url(/fonts/avenir-lt-pro-cufonfonts/AvenirLTProLight.otf) format('opentype'); 
+ src: url('fonts/avenir-lt-pro-cufonfonts/AvenirLTProLight.otf') format('opentype'); 
 } 
 
 
