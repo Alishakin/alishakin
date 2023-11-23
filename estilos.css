@@ -731,7 +731,7 @@ width: 70px;
 
 @font-face { 
  font-family: 'FontsFree-Net-Lulo-Clean-W01-One-Bold.ttf';
- src: url('fonts/FontsFree-Net-Lulo-Clean-W01-One-Bold.ttf') format('opentype'); 
+ src: url(fonts/FontsFree-Net-Lulo-Clean-W01-One-Bold.ttf) format('opentype'); 
 } 
 
 @font-face { 
